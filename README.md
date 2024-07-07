@@ -24,4 +24,3 @@ Pages: (can be switch to Dark and Light Mode)
 Credits to the rightful owner of the template: Judit Karamazov
 Github profile: https://github.com/JuditKaramazov
 Thank you so much!
-# github.io
