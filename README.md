@@ -12,7 +12,7 @@
 ![](./fontendport.PNG)
 
 # Feature 
-Pages: (can be switch to Dark and Light Mode)
+Pages: (can be switched to Dark and Light Mode)
 - Home 
 - About
 - Skills
