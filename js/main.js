@@ -134,6 +134,9 @@ const getCurrentTheme = () =>
 const getCurrentIcon = () =>
   themeButton.classList.contains(iconTheme) ? "fa-moon" : "fa-sun"
 
+document.body.classList.add(darkTheme)
+themeButton.classList.add(iconTheme)
+
 if (selectedTheme) {
   document.body.classList[selectedTheme === "dark" ? "add" : "remove"](darkTheme)
   themeButton.classList[selectedIcon === "fa-moon" ? "add" : "remove"](iconTheme)
