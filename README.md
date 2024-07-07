@@ -1,7 +1,7 @@
 # Krystel Abby's Portfolio
 
 <p align="center">
-  <a href="https://mariabrio.vercel.app">
+  <a href="https://krystelabby.github.io/abbyportfolio/">
     <img src="/assets/favicon/android-chrome-192x192.png" width="70" alt="Portfolio's favicon.">
   </a>
 </p>
