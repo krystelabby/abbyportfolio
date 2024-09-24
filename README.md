@@ -9,7 +9,7 @@
   <span style="font-size: larger;"></span>
 </p>
 
-![](./fontendport.PNG)
+![](./fontendport.png)
 
 # Feature 
 Pages: (can be switched to Dark and Light Mode)
